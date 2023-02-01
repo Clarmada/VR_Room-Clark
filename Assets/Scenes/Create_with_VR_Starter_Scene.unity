@@ -867,9 +867,15 @@ GameObject:
   - component: {fileID: 235308783}
   - component: {fileID: 235308787}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 235308790}
   - component: {fileID: 235308789}
   - component: {fileID: 235308788}
+=======
+  - component: {fileID: 235308786}
+  - component: {fileID: 235308785}
+  - component: {fileID: 235308784}
+>>>>>>> parent of 52a7e25 ("realistic" left hand)
 =======
   - component: {fileID: 235308786}
   - component: {fileID: 235308785}
@@ -1430,6 +1436,7 @@ MonoBehaviour:
     m_Reference: {fileID: 7779212132400271959, guid: c348712bda248c246b8c49b3db54643f, type: 3}
   m_ButtonPressPoint: 0.5
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &235308788
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1777,6 +1784,8 @@ LineRenderer:
     generateLightingData: 0
   m_UseWorldSpace: 1
   m_Loop: 0
+=======
+>>>>>>> parent of 52a7e25 ("realistic" left hand)
 =======
 >>>>>>> parent of 52a7e25 ("realistic" left hand)
 --- !u!1001 &238986392
